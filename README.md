@@ -126,3 +126,5 @@ La implementación del sistema permitió:
 # Clonar el repositorio
 git clone https://github.com/Ezequie1Sc/Barberia.git
 cd Barberia
+
+Autor : Ezequiel
